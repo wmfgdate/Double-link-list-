@@ -1,5 +1,5 @@
-# Double-link-list-
-`HOT_COLD`    
+# HOT_COLD
+    
 
 
 
