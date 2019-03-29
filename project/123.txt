@@ -1,0 +1,44 @@
+R:82 W:87
+
+HOT，COLD 為兩個串列中的第一個(top)
+
+
+預設:
+HOT:     5->2->7
+COLD:    4->3->1->0->0 
+---------- 
+HOT  COLD|
+----------
+|0	 |0  |  1
+|0	 |1  |  2
+|1	 |0  |  3
+|1	 |1  |  4
+----------
+
+1.建LINK LIST 
+	從前面建立
+
+
+
+2.check data in list?
+	input:LBA
+	output:有在裡面->位址
+			沒在裡面->NULL
+
+
+					
+3. 	
+if (input_data in hot ){
+	把input_data 從中間拿出來放到hot_top 
+}
+elseif (input_data in cold ){
+	把intput_data 從cold中拿出放到hot_top	
+}
+else{ //都不在cold and hot 中
+	把input_data放到cold_top	
+}
+	
+	
+3/29:
+	insert_data副程式無法改動main的top in tail 的指標位置
+	

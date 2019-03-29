@@ -1,0 +1,16 @@
+﻿已經開始建置於 2019/3/29 下午 05:35:37。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\SwigeYi\Desktop\project\hot_cold\hot_cold\hot_cold.vcxproj"。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\hot_cold.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt hot_cold.cpp
+         hot_cold.cpp
+     1>c:\users\swigeyi\desktop\project\hot_cold\hot_cold\hot_cold.cpp(122): warning C4018: '<' : signed/unsigned 不相符
+     1>c:\users\swigeyi\desktop\project\hot_cold\hot_cold\hot_cold.cpp(392): warning C4715: 'Check_List' : 不是所有控制路徑都傳回值
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\SwigeYi\Desktop\project\hot_cold\Debug\hot_cold.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\SwigeYi\Desktop\project\hot_cold\Debug\hot_cold.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\SwigeYi\Desktop\project\hot_cold\Debug\hot_cold.lib" /MACHINE:X86 Debug\hot_cold.obj
+         Debug\stdafx.obj
+         hot_cold.vcxproj -> C:\Users\SwigeYi\Desktop\project\hot_cold\Debug\hot_cold.exe
+     1>專案 "C:\Users\SwigeYi\Desktop\project\hot_cold\hot_cold\hot_cold.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:01.09
