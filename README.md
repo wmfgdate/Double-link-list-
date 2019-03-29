@@ -1,4 +1,7 @@
 # Double-link-list-
+`HOT_COLD`    
+
+
 
 `INPUT:`
 一開始先輸入 HOT_Len  COLD_Len
