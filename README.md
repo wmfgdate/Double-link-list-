@@ -3,10 +3,12 @@
 INPUT:
 一開始先輸入 HOT_Len  COLD_Len
 
-HOT:   1~5000
-COLD:  1~10000
+HOT:   from 1 to 5000
+COLD:  from 1 to 10000
+
 如果要得知LBA 在哪
 則先輸入C0  (C零)
+
 才進入到查詢模式
 
 
