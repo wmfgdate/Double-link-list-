@@ -1,5 +1,4 @@
-# 發展一套結合Google Assistant 與LineBot裝置進行軌道房機箱滲水偵測通報系統
-# Development of Near by Rail Cases Detected Leakage SystemCombine LineBot and Google Assistant
+# 發展一套結合Google Assistant 與LineBot裝置進行軌道房機箱滲水偵測通報系統(Development of Near by Rail Cases Detected Leakage SystemCombine LineBot and Google Assistant)
     
 `功能`
 透過LINE即時推播可以得知在遠方的裝置與環境狀況
